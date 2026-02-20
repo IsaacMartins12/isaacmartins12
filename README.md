@@ -7,10 +7,6 @@
 <br/>
 🚀 Loved for science and technology
 <br/>
-🐍 Python is Life
-<br/>
-🎲 The data doesn't lie
-<br/>
 💡  Ideas can change the world
 <br/>
 
