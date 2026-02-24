@@ -32,13 +32,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-
-
 </div>          
-
-        
-
-<br/>
           
 <div align="center">
   <a href="https://github.com/isaacmartins12">
