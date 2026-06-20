@@ -3,7 +3,7 @@
 
 💻 Working such Developer SW/HW at Multinational Company
 <br/>
-⚡ Electrical enginner student
+⚡ Electrical enginner
 <br/>
 🚀 Loved for science and technology
 <br/>
