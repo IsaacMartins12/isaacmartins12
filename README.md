@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Isaac but you can call me Zack
 
-💻 Working such Developer SW/HW at Multinational Company
+💻 Working such Developer ML & Robotics Enginner at Multinational Company
 <br/>
 ⚡ Electrical enginner
 <br/>
