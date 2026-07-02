@@ -34,14 +34,12 @@
   <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 </div>          
           
-<div align="center">
-  <a href="https://github.com/isaacmartins12">
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacmartins12&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
-    <br/>
-    <img height="180em"
-         src="https://github-readme-stats.vercel.app/api?username=isaacmartins12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&cache_seconds=1800"/>
-  </a>
+<div align="center"> 
+  <a href="https://github.com"> 
+    <img height="180em" src="https://SEU_DOMAIN_AQUI/api/top-langs/?username=isaacmartins12&layout=compact&langs_count=7&theme=dracula&cache_seconds=1801"/> 
+    <br/> 
+    <img height="180em" src="https://SEU_DOMAIN_AQUI/api?username=isaacmartins12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula&cache_seconds=1801"/> 
+  </a> 
 </div>
 
 
