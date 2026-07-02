@@ -1,7 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
 
-![Profile Views](https://komarev.com/ghpvc/?username=isaacmartins12&color=blueviolet&style=for-the-badge)
-
 ## My name is Isaac but you can call me Zack
 
 💻 Working such Developer ML & Robotics Enginner at Multinational Company
