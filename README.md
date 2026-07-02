@@ -68,10 +68,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaacmartins12&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaacmartins12&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaacmartins12&theme=dracula"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=isaacmartins12&theme=dracula" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaacmartins12&theme=dracula" alt="Profile Details"/>
 </div>
 
 
