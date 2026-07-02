@@ -52,12 +52,26 @@
  
 </div>          
           
+<!--
 <div align="center"> 
   <a href="https://github.com/isaacmartins12"> 
     <img height="180em" src="https://github-readme-stats-isaacmartins12s-projects.vercel.app/api/top-langs/?username=isaacmartins12&layout=compact&langs_count=7&theme=dracula"/> 
     <br/> 
     <img height="180em" src="https://github-readme-stats-isaacmartins12s-projects.vercel.app/api?username=isaacmartins12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula"/> 
   </a> 
+</div>
+-->
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaacmartins12&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaacmartins12&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaacmartins12&theme=dracula"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=isaacmartins12&theme=dracula" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaacmartins12&theme=dracula" alt="Profile Details"/>
 </div>
 
 
