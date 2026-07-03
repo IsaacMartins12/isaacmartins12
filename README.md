@@ -1,17 +1,28 @@
-# 👋 Hello! Welcome to my Github profile.
+# 👋 Hi, I'm Isaac Martins (Zack)
 
-## My name is Isaac but you can call me Zack
+I'm a **Machine Learning Engineer** passionate about building intelligent systems that solve real-world industrial problems.
 
-💻 Working such Developer ML & Robotics Enginner at Multinational Company
-<br/>
-⚡ Electrical enginner
-<br/>
-🚀 Loved for science and technology
-<br/>
-💡  Ideas can change the world
-<br/>
+Currently working as a **Machine Learning & Robotics Engineer** at a multinational company, developing AI-driven solutions for industrial automation, predictive maintenance, computer vision and robotics.
 
--📨 Talk with me for share ideas and projects : isaac.martins230@gmail.com
+🎓 Electrical Engineer
+
+🚀 Passionate about Artificial Intelligence, Robotics and Data Science
+
+💡 Building production-ready Machine Learning systems from research to deployment.
+
+📨 Talk with me for share ideas and projects : isaac.martins230@gmail.com
+
+# 👨‍💻 About Me
+
+- 🤖 Machine Learning Engineer
+- 👁️ Computer Vision
+- ⚡ Edge AI
+- 🏭 Industrial AI
+- 📈 Predictive Maintenance
+- 📊 Time Series Forecasting
+- 🚀 MLOps
+- 🐳 Deploying Machine Learning Models
+- 🌎 Always learning new AI technologies
 
 ## Technologies and Tools
 <div style="display: inline-block">
