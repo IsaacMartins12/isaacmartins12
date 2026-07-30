@@ -1,91 +1,142 @@
 # 👋 Hi, I'm Isaac Martins (Zack)
 
-I'm a **Machine Learning Engineer** passionate about building intelligent systems that solve real-world industrial problems.
+I'm a **Software Engineer** passionate about building scalable backend applications and solving real-world business problems.
 
-Currently working as a **Machine Learning & Robotics Engineer** at a multinational company, developing AI-driven solutions for industrial automation, predictive maintenance, computer vision and robotics.
+Currently working as a Software Engineer in industrial automation, developing software solutions, system integrations and enterprise applications.
 
 🎓 Electrical Engineer
 
-🚀 Passionate about Artificial Intelligence, Robotics and Data Science
+☕ Backend Developer focused on **Java, Spring Boot and Python**
 
-💡 Building production-ready Machine Learning systems from research to deployment.
+🚀 Passionate about Software Architecture, Distributed Systems and Cloud Computing
 
-📨 Talk with me for share ideas and projects : isaac.martins230@gmail.com
+📨 Feel free to connect: **[isaac.martins230@gmail.com](mailto:isaac.martins230@gmail.com)**
+
+---
 
 # 👨‍💻 About Me
 
-- 🤖 Machine Learning Engineer
-- 👁️ Computer Vision
-- ⚡ Edge AI
-- 🏭 Industrial AI
-- 📈 Predictive Maintenance
-- 📊 Time Series Forecasting
-- 🚀 MLOps
-- 🐳 Deploying Machine Learning Models
-- 🌎 Always learning new AI technologies
+* ☕ Java Backend Development
+* 🌱 Spring Boot
+* 🐍 Python Development
+* 🌐 REST APIs
+* 🗄️ Database Design
+* 🐘 PostgreSQL & MySQL
+* 🐳 Docker
+* ☁️ Cloud Computing
+* 🔗 System Integration
+* 🏗️ Software Architecture
+* ⚙️ Enterprise Applications
+* 🚀 Always learning new backend technologies
 
-## Technologies and Tools
+---
+
+# 💻 Backend Stack
+
 <div style="display: inline-block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whit"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Raspberry-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/opecv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
+
+<img align="center" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
 </div>
 
-## MLOps & ML Engineering
+---
+
+# 🗄️ Databases
+
 <div style="display: inline-block">
-  <img align="center" alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img align="center" alt="Kubeflow" src="https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img align="center" alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img align="center" alt="SageMaker" src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-  <img align="center" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img align="center" alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img align="center" alt="DVC" src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
-  <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img align="center" alt="Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img align="center" alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
- 
-</div>          
-          
-<!--
-<div align="center"> 
-  <a href="https://github.com/isaacmartins12"> 
-    <img height="180em" src="https://github-readme-stats-isaacmartins12s-projects.vercel.app/api/top-langs/?username=isaacmartins12&layout=compact&langs_count=7&theme=dracula"/> 
-    <br/> 
-    <img height="180em" src="https://github-readme-stats-isaacmartins12s-projects.vercel.app/api?username=isaacmartins12&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula"/> 
-  </a> 
+
+<img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 </div>
--->
+
+---
+
+# ⚙️ DevOps & Tools
+
+<div style="display: inline-block">
+
+<img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img align="center" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
+
+---
+
+# 🌐 Frontend (Secondary Skills)
+
+<div style="display: inline-block">
+
+<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
+<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
+
+---
+
+# 📌 Main Interests
+
+* Backend Development
+* Software Architecture
+* REST APIs
+* Distributed Systems
+* Microservices
+* Cloud Computing
+* Enterprise Software
+* Clean Code
+* Design Patterns
+
+---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaacmartins12&theme=dracula"/>
-  <!--<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isaacmartins12&theme=dracula"/>-->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaacmartins12&theme=dracula"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=isaacmartins12&theme=dracula"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isaacmartins12&theme=dracula"/>
+
 </div>
 
+---
 
-## Contacts:
+# 📫 Contact
 
 <div>
-<a href="https://instagram.com/eu.zack_martins" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isaac-martins-dev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+<a href="https://www.linkedin.com/in/isaac-martins-dev" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/eu.zack_martins" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
